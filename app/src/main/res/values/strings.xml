@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Password Logger</string>
+
+
+    <!-- Login page -->
+    <string name="login_password">Password</string>
+    <string name="login_submit">SUBMIT</string>
+    <string name="login_view_all">VIEW ALL</string>
+    <string name="login_header">Password Logger</string>
+    
+    <!-- List page -->
+    <string name="list_refresh">REFRESH</string>
+    <string name="list_date_placeholder">Date created: November 09, 2023, 06:27 PM</string>
+
+    <!-- General -->
+    <string name="loading">Please wait</string>
+    <string name="db_connect">Establishing a secure connection with our servers...</string>
+</resources>

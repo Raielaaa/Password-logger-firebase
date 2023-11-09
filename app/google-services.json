@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259518592986",
+    "project_id": "password-logger-e089e",
+    "storage_bucket": "password-logger-e089e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259518592986:android:275849dbc39643b98832e3",
+        "android_client_info": {
+          "package_name": "com.example.passwordlogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRhZ_YTECmWjgGlGutPPkJQa0UWh71Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
