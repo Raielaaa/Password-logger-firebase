@@ -62,6 +62,7 @@ public class ListActivity extends AppCompatActivity {
     }
 
     private void getDataFromFireStore() {
+        dataFromDB.clear();
         fireStore = FirebaseFirestore.getInstance();
 
         fireStore.collection("main-app")
